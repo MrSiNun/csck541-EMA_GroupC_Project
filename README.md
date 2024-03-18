@@ -21,7 +21,7 @@ This project demonstrates a secure client-server network facilitating data commu
 1. Clone the repository:
 
 ---------------------------------------------------
-  git clone https://github.com/MrSiNun/mid-module-sinanbilir.git
+  git clone https://github.com/MrSiNun/csck541-EMA_GroupC_Project.git
 ---------------------------------------------------
 
 2. Navigate to the project directory:
@@ -108,8 +108,6 @@ We extend our gratitude to the dedicated team members who have contributed to th
 - Sinan Bilir
 - Taras Lalchan
 - Tsz Yeung Cheng
-
-For a full list of contributors and their contributions, visit our [GitHub contributors page](https://github.com/MrSiNun/mid-module-sinanbilir.git/contributors).
 
 
 ## License

@@ -1,0 +1,20 @@
+.
+├── 02032024-GroupC-MeetingMinutes.docx
+├── 07032024-GroupC-MeetingMinutes.docx
+├── 16032024-GroupC-MeetingMinutes.docx
+├── CSCK541_EMA_GroupC_Report.docx
+├── README.md
+├── client_final.py
+├── client_final_unittest.py
+├── csck541-EMA_GroupC_Project
+│   └── README.md
+├── csck541-groupC-groupProject
+├── directory_tree.txt
+├── encryption.key
+├── encryption__final_unittest.py
+├── encryption_final.py
+├── requirements.txt
+├── server_final.py
+└── server_final_unittest.py
+
+3 directories, 15 files
