@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd99bb6c-4311-42e2-882f-56d8ad5ac428" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="cd99bb6c-4311-42e2-882f-56d8ad5ac428" name="Changes" comment="first commit&#10;Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,13 +17,28 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MrSiNun&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="be9b3fa4-6fe0-418b-b08e-daa6ee22e336" />
+        <option name="url" value="git@github.com:MrSiNun/csck541-groupC-groupProject.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2drAnib7Eozs5p00Ed3mXWKmdJQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,8 +52,9 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/sinan/Desktop/csck541-groupA-groupProject",
+    "last_opened_file_path": "/Users/sinan/Desktop/csck541-EMA_GroupC_Project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,6 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1710755991967</updated>
       <workItem from="1710755993115" duration="554000" />
+      <workItem from="1710756652699" duration="1777000" />
+      <workItem from="1710762856206" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -114,15 +130,83 @@
       <option name="project" value="LOCAL" />
       <updated>1710756646949</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1710756657092</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710756657092</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1710756664851</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710756664851</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1710757198084</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710757198084</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1710757709431</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710757709431</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1710760924934</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710760924934</updated>
+    </task>
+    <task id="LOCAL-00012" summary="first commit&#10;Initial commit">
+      <option name="closed" value="true" />
+      <created>1710762866704</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710762866704</updated>
+    </task>
+    <task id="LOCAL-00013" summary="first commit&#10;Initial commit">
+      <option name="closed" value="true" />
+      <created>1710763077691</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710763077691</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="first commit&#10;Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit&#10;Initial commit" />
   </component>
 </project>
