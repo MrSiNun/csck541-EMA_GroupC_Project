@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 
-cryptography~=42.0.5
+cryptography~=43.0.1
 ipython==8.12.3
 jupyter_client==8.6.0
 jupyter_core==5.7.1
